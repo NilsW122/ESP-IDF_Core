@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/Downloads/platform-espressif32-develop/platform-espressif32-develop/examples/espidf-arduino-blink/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/Downloads/platform-espressif32-develop/platform-espressif32-develop/examples/espidf-arduino-blink/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/Downloads/platform-espressif32-develop/platform-espressif32-develop/examples/espidf-arduino-blink/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/Downloads/platform-espressif32-develop/platform-espressif32-develop/examples/espidf-arduino-blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/Downloads/platform-espressif32-develop/platform-espressif32-develop/examples/espidf-arduino-blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/Downloads/platform-espressif32-develop/platform-espressif32-develop/examples/espidf-arduino-blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/Downloads/platform-espressif32-develop/platform-espressif32-develop/examples/espidf-arduino-blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "D:/Downloads/platform-espressif32-develop/platform-espressif32-develop/examples/espidf-arduino-blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/Downloads/platform-espressif32-develop/platform-espressif32-develop/examples/espidf-arduino-blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/Downloads/platform-espressif32-develop/platform-espressif32-develop/examples/espidf-arduino-blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
