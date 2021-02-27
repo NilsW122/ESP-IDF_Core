@@ -934,3 +934,5 @@
 119129	119253	6350263851573953	esp-idf/wifi_provisioning/libwifi_provisioning.a	a853bf652790f6fc
 119254	122526	6350263883904496	esp-idf/esp32/ld/esp32.project.ld	618e95d63b69c974
 122527	122774	6350263886571132	CMakeFiles/espidf-arduino-wifiscan.elf.dir/project_elf_src.c.obj	e571faf2212a45df
+133	9886	6361397839645247	build.ninja	cb92f5a5117f8415
+1	34673	0	CMakeFiles/menuconfig	3cea1172597859c6
