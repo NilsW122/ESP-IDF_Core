@@ -1,9 +1,9 @@
 {
     "project_name":       "espidf-arduino-wifiscan",
-    "project_path":       "D:/Downloads/platform-espressif32-develop/platform-espressif32-develop/examples/espidf-arduino-blink",
-    "build_dir":          "D:/Downloads/platform-espressif32-develop/platform-espressif32-develop/examples/espidf-arduino-blink/build",
-    "config_file":        "D:/Downloads/platform-espressif32-develop/platform-espressif32-develop/examples/espidf-arduino-blink/sdkconfig",
-    "config_defaults":    "D:/Downloads/platform-espressif32-develop/platform-espressif32-develop/examples/espidf-arduino-blink/sdkconfig.defaults",
+    "project_path":       "D:/Dropbox/Hobby/Bastelprojekte/externerquarz/ESP-IDF_Core",
+    "build_dir":          "D:/Dropbox/Hobby/Bastelprojekte/externerquarz/ESP-IDF_Core/build",
+    "config_file":        "D:/Dropbox/Hobby/Bastelprojekte/externerquarz/ESP-IDF_Core/sdkconfig",
+    "config_defaults":    "D:/Dropbox/Hobby/Bastelprojekte/externerquarz/ESP-IDF_Core/sdkconfig.defaults",
     "app_elf":            "espidf-arduino-wifiscan.elf",
     "app_bin":            "espidf-arduino-wifiscan.bin",
     "git_revision":       "v4.2-dirty",

@@ -1,4 +1,4 @@
-# Install script for directory: D:/Downloads/platform-espressif32-develop/platform-espressif32-develop/examples/espidf-arduino-blink
+# Install script for directory: D:/Dropbox/Hobby/Bastelprojekte/externerquarz/ESP-IDF_Core
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/Downloads/platform-espressif32-develop/platform-espressif32-develop/examples/espidf-arduino-blink/build/esp-idf/cmake_install.cmake")
+  include("D:/Dropbox/Hobby/Bastelprojekte/externerquarz/ESP-IDF_Core/build/esp-idf/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Downloads/platform-espressif32-develop/platform-espressif32-develop/examples/espidf-arduino-blink/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Dropbox/Hobby/Bastelprojekte/externerquarz/ESP-IDF_Core/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

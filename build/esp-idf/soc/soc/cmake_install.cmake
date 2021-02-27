@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("D:/Downloads/platform-espressif32-develop/platform-espressif32-develop/examples/espidf-arduino-blink/build/esp-idf/soc/soc/esp32/cmake_install.cmake")
+  include("D:/Dropbox/Hobby/Bastelprojekte/externerquarz/ESP-IDF_Core/build/esp-idf/soc/soc/esp32/cmake_install.cmake")
 
 endif()
 
